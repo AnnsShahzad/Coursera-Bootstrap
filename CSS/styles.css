@@ -61,3 +61,17 @@ body
 {
     cursor: pointer;
 }
+
+.carousel
+{
+    background: #512da8;
+    border-radius: 10px;
+
+}
+
+.carousel-item
+{
+    height: 250px;
+    
+}
+
